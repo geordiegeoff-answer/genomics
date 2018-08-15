@@ -1,0 +1,8 @@
+export default {
+    SET_DATA: 'SET_DATA',
+    SET_ROUTES: 'SET_ROUTES',
+    SET_SHOW_FILTERS: 'SET_SHOW_FILTERS',
+    SET_MAP: 'SET_MAP',
+    SET_LINES: 'SET_LINES',
+    SET_LABS: 'SET_LABS'
+}
